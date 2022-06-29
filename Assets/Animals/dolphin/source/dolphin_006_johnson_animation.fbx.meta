@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: 30b70a189c569ee42973331ff19d65d8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: //RootNode
+    100004: dorsal
+    100006: flipper.L
+    100008: flipper.R
+    100010: fluke.L
+    100012: fluke.L.001
+    100014: fluke.R
+    100016: fluke.R.001
+    100018: head_01
+    100020: jaw
+    100022: MAIN
+    100024: Mesh
+    100026: scapula.L
+    100028: scapula.R
+    100030: spine.001
+    100032: spine.002
+    100034: spine.003
+    100036: spine.004
+    100038: spine.005
+    100040: spine.006
+    100042: spine.007
+    400000: Armature
+    400002: //RootNode
+    400004: dorsal
+    400006: flipper.L
+    400008: flipper.R
+    400010: fluke.L
+    400012: fluke.L.001
+    400014: fluke.R
+    400016: fluke.R.001
+    400018: head_01
+    400020: jaw
+    400022: MAIN
+    400024: Mesh
+    400026: scapula.L
+    400028: scapula.R
+    400030: spine.001
+    400032: spine.002
+    400034: spine.003
+    400036: spine.004
+    400038: spine.005
+    400040: spine.006
+    400042: spine.007
+    2100000: Dolphin Body
+    2100002: Dolphin Eyes
+    4300000: Mesh
+    7400000: Armature|Action.001
+    9500000: //RootNode
+    13700000: Mesh
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
